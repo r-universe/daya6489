@@ -1,9 +1,5 @@
 [
   {
-    "package": "DriveML",
-    "oncran": true
-  },
-  {
     "package": "SmartEDA",
     "oncran": true
   }
