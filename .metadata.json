@@ -1,10 +1,10 @@
 [
   {
-    "package": "SmartEDA",
+    "package": "DriveML",
     "oncran": true
   },
   {
-    "package": "DriveML",
+    "package": "SmartEDA",
     "oncran": true
   }
 ]
