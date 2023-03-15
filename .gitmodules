@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DriveML"]
-	path = DriveML
-	url = https://github.com/daya6489/driveml
-	shallow = true
-	registered = true
 [submodule "SmartEDA"]
 	path = SmartEDA
 	url = https://github.com/daya6489/smarteda
+	shallow = true
+	registered = true
+[submodule "DriveML"]
+	path = DriveML
+	url = https://github.com/daya6489/driveml
 	shallow = true
 	registered = true
